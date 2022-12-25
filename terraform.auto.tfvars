@@ -1,6 +1,6 @@
 region = "us-east-1"
 
-profile = "default"
+profile = "mainuser"
 
 instance_type = "t2.micro"
 
